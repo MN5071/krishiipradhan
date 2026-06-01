@@ -173,7 +173,7 @@ function seed() {
 
   const demoUsers = [
     {
-      name: 'Ravi Gowda', email: 'farmer@agri.com', password_hash: passwordHash, role: 'Farmer',
+      name: 'Ravi Farmer', email: 'farmer@agri.com', password_hash: passwordHash, role: 'Farmer',
       phone: '9876543210', whatsapp: '', address: '', location: 'Mysuru Farm Belt', latitude: 12.30733, longitude: 76.68945, labour_rate: 0, is_online: 0, profile_completed: 1,
       photo: 'https://images.unsplash.com/photo-1592982537447-7440770cbfc9?auto=format&fit=crop&w=600&q=80'
     },
